@@ -1,6 +1,6 @@
 # Community-Detection-in-Complex-Networks
 
-Final year project by Gavriel Shalem and Nati Birhuz, exploring advanced community detection algorithms in complex networks, aimed at uncovering and analyzing densely connected groups within various types of networks. This research project combines theoretical exploration with practical software tool development for network analysis.
+Final year project by Gavriel Shalem and Nati Birhuz, exploring advanced community detection algorithms in complex networks, aimed at uncovering and analyzing densely connected groups within various types of networks. This research project is a theoretical exploration that aims for a development of a practical software tool for network analysis.
 
 ### Community Detection in Complex Networks
 
@@ -10,17 +10,16 @@ This project is a comprehensive research endeavor focused on the field of commun
 
 # Objectives
 
-To understand the fundamental principles of complex networks and the significance of community structures within them.
-To evaluate and implement cutting-edge algorithms for community detection, assessing their efficiency, accuracy, and applicability to different types of networks.
-To develop a software tool that facilitates the analysis of complex networks, enabling users to identify and visualize communities within these networks.
+    1.To understand the fundamental principles of complex networks and the significance of community structures within them.
+    2.To evaluate and implement algorithms for community detection, assessing their efficiency, accuracy, and applicability to different types of networks.
 
 # Team
 
-This project is the culmination of a collaborative effort between Gavriel Shalem and Nati Birhuz, both senior students pursuing a degree in Software Engineering at Azrieli College of Engineering. With a strong foundation in coding and a keen interest in applying theoretical concepts to real-world scenarios, this project serves as their final year project, showcasing their skills and knowledge in the field.
+This project is a collaborative effort between Gavriel Shalem and Nati Birhuz, we are senior students in Software Engineering at Azrieli College of Engineering. this project serves as our final year project.
 
 # Research Scope
 
-The research encompasses a broad spectrum of networks, including social networks, biological networks, and technological networks, among others. By applying community detection algorithms to these diverse networks, the project seeks to uncover patterns and behaviors that are universal, as well as those that are unique to specific types of networks.
+The research uses social networks data sets, By applying community detection algorithms to these networks, the project seeks to uncover patterns and behaviors that are universal, as well as those that are unique to specific types of networks.
 
 # Methodology
 
