@@ -23,16 +23,14 @@ The research uses social networks data sets, By applying community detection alg
 
 # Methodology
 
-The project employs a rigorous methodology, beginning with a comprehensive review of existing literature on community detection. Following this, various algorithms will be implemented and tested on synthetic and real-world networks to evaluate their performance. The development process adheres to best coding practices, with an emphasis on modularity, readability, and robustness.
+The project beginning with a review of existing literature on community detection. Following this, various algorithms will be implemented and tested on real-world networks to evaluate their performance
 
 # Technologies
 
-Programming Languages: [Specify languages, e.g., Python, Java]
-Libraries/Frameworks: [Specify libraries, e.g., NetworkX for Python, Gephi for network visualization]
-Tools: [Specify tools, e.g., Git for version control, Docker for containerization]
-How to Use
-[Provide instructions on how to set up the project, install necessary dependencies, and run the tool. Include examples of how to use the software to detect communities in a network.]
+Programming Languages: Python
+Libraries/Frameworks: ???
+Tools: GitHub ,Visual Studio code.
 
 # Acknowledgements
 
-We extend our gratitude to our project advisors and the faculty at Azrieli College of Engineering for their invaluable guidance and support throughout this project.
+We extend our gratitude to our project advisor mr.Tzur Luria at Azrieli College of Engineering for his guidance and support throughout this project.
