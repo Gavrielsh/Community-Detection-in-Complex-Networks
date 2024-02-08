@@ -1,12 +1,12 @@
 # Community-Detection-in-Complex-Networks
 
-Final year project by Gavriel Shalem and Nati Birhuz, exploring advanced community detection algorithms in complex networks, aimed at uncovering and analyzing densely connected groups within various types of networks. This research project is a theoretical exploration that aims for a development of a practical software tool for network analysis.
+Final year project by Gavriel Shalem and Nati Birhuz, exploring advanced community detection algorithms in complex networks, aimed at uncovering and analyzing densely connected groups within networks using diffrent algorithems. This research project is a theoretical exploration that aims for a development of a practical software tool for network analysis in the future.
 
 ### Community Detection in Complex Networks
 
 # Overview
 
-This project is a comprehensive research endeavor focused on the field of community detection within complex networks. As a pivotal aspect of network theory, community detection involves identifying groups within larger networks where nodes are more densely connected to each other than to the rest of the network. This research aims to explore various algorithms and methodologies for effectively uncovering these communities, providing insights into their underlying structures and dynamics.
+This project is a research endeavor focused on the field of community detection within complex networks. As a pivotal aspect of network theory, community detection involves identifying groups within larger networks where nodes are more densely connected to each other than to the rest of the network. This research aims to explore various algorithms and methodologies for effectively uncovering these communities, providing insights into their underlying structures and dynamics.
 
 # Objectives
 
