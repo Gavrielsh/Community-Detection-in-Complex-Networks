@@ -34,4 +34,5 @@ Here are the first few rows of the `.edges` file to illustrate its structure:
 The data in the `.edges` file can be used for various analyses, including but not limited to:
 - **Network Analysis**: Understanding the structure and connectivity of the network of public figures.
 - **Community Detection**: Applying algorithms to detect communities or clusters of closely connected public figures.
-- **Influence Analysis
+- **Influence Analysis**: Identifying influential public figures based on their connections within the network.
+- **Relationship Strength**: Analyzing the weight of connections to understand the strength of relationships between public figures.
