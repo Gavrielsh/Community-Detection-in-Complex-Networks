@@ -23,9 +23,13 @@ The file is a text file with space-separated values (SSV). Each row after the fi
 ### Example Rows
 Here are the first few rows of the `.nodes` file to illustrate its structure:
 116999698310182 Mike Rowe 8980
+
 1173678312659310 Louis Ng Kok Kwang 2230
+
 466981723395173 Pastor Everaldo 7510
+
 251453648389404 Ronen Manelis דובר צה"ל רונן מנליס 2708
+
 1596076743971510 QPark 7349
 
 
