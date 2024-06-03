@@ -13,6 +13,7 @@ The Louvain algorithm is an efficient method for detecting communities in large 
 Below is a force-directed graph visualization of the network, showing the communities detected by the Louvain algorithm. Each node represents a Facebook page of a public figure, and edges represent the connections between them. Nodes are colored based on the community they belong to.
 
 <img width="682" alt="Screenshot 2024-06-03 125254" src="https://github.com/Gavrielsh/Community-Detection-in-Complex-Networks/assets/118755927/83f8d77d-5eb8-4586-a54e-49cb9eeadf7a">
+
 ## Results
 
 ### Louvain Modularity
